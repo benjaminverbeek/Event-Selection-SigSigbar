@@ -1,0 +1,19 @@
+% Names of input root files
+{
+  /ustcfs/BES3User/2021/benjamin/runarea/test/outfile/mcout.root
+}
+
+% TTree name
+{
+  fit4c
+}
+
+% Fix the mother indices of particles in BESIII experiment (Two options: Y and N. Default: N)
+{
+  Y
+}
+
+% Component analysis --- decay trees
+{
+  Y
+}
